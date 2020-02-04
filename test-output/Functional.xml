@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Basic suite">
+       <!-- suite name="Suite Name" --> 
+            <suite-files>
+                   <suite-file path="./Basic.xml" />
+                   <suite-file path="./Functional.xml"/>
+        
+            </suite-files>
+    </suite>
+</suite> <!-- Basic suite -->
